@@ -1,5 +1,6 @@
 # Coke-Sales-Analysis
 End-to-end Excel project analyzing Coca-Cola sales across U.S. retailers with pivot tables, KPIs, heatmaps, and an interactive dashboard
+
 Project Overview
 
 This project involves an end-to-end sales data analysis of Coca-Cola retail sales across major U.S. retailers using Microsoft Excel. The objective was to transform raw transactional data into actionable business insights related to sales performance, profitability, pricing strategy, and seasonal trends.
@@ -8,109 +9,62 @@ The project demonstrates practical skills in data cleaning, data analysis, KPI r
 
 Business Objectives
 
-Analyze total sales, units sold, and operating profit across retailers and regions
+- Analyze total sales, units sold, and operating profit across retailers and regions
+- Evaluate operating margins to assess profitability and efficiency
+- Identify seasonal sales trends using time-series analysis
+- Analyze price per unit vs sales volume relationships
+- Create an interactive Excel dashboard for executive reporting
 
-Evaluate operating margins to assess profitability and efficiency
-
-Identify seasonal sales trends using time-series analysis
-
-Analyze price per unit vs sales volume relationships
-
-Create an interactive Excel dashboard for executive-level reporting
 
 Tools, Technologies & Skills
 
-Microsoft Excel, including:
+- Microsoft Excel
+- Data Cleaning & Preparation
+- Excel Tables
+- Pivot Tables & Pivot Charts
+- KPI Reporting
+- Conditional Formatting (Heatmaps)
+- Slicers & Dashboards
+- Sales & Profitability Analysis
+  
+Data Preparation
+- Removed redundant headers and noisy rows
+- Standardized column names
+- Converted raw data into Excel Tables
+- Corrected data types (Date, Currency, Percentage)
+- Validated operating margin calculations
 
-Data Cleaning & Data Preparation
+Analysis Performed
+Sales & Retailer Performance
+- Compared sales and units sold by retailer
+- Identified top and underperforming retailers
+- Analyzed operating margins
 
-Excel Tables & Structured References
+Regional Performance
+- Evaluated sales and profit by region
+- Identified margin inefficiencies
 
-Pivot Tables & Pivot Charts
+Time Series Analysis
+- Aggregated sales monthly
+- Identified seasonal patterns and peak demand periods
 
-KPI Metrics & Business Reporting
+Pricing Analysis
+- Studied price per unit vs units sold
+- Assessed pricing impact on margins
 
-Conditional Formatting (Heatmaps)
+Dashboard Features
+- KPI Cards (Sales, Units, Profit, Margin)
+- Bar charts and line charts
+- Regional heatmap
+- Interactive slicers
 
-Time-Series Analysis
+Key Insights
+- Revenue concentrated among few retailers
+- High volume does not always mean high profitability
+- Seasonal demand patterns are evident
+- Pricing strongly impacts margins
 
-Slicers & Interactive Dashboards
 
-Sales Analytics & Profitability Analysis
+Conclusion
+This project demonstrates strong Excel-based data analytics skills, including data cleaning, analysis, visualization, and dashboarding, suitable for Data Analyst and Business Analyst roles.
 
-Data Cleaning & Preparation
-
-Removed redundant header rows and non-analytic data
-
-Standardized column naming conventions
-
-Converted raw data into structured Excel Tables
-
-Corrected data types (Date, Currency, Percentage, Numeric)
-
-Validated operating margin and revenue calculations
-
-Ensured data accuracy for downstream analysis
-
-Analytical Approach
-1️.Sales & Retailer Performance Analysis
-
-Compared total sales revenue and units sold by retailer
-
-Identified top-performing and underperforming retailers
-
-Evaluated operating margin to measure profitability efficiency
-
-2️.Regional Performance Analysis
-
-Analyzed total sales and operating profit by region
-
-Compared average operating margins to identify regional inefficiencies
-
-3️.Time-Series & Trend Analysis
-
-Aggregated sales metrics on a monthly basis
-
-Identified seasonal patterns and peak demand periods
-
-Monitored profitability changes over time
-
-4️.Pricing & Volume Analysis
-
-Analyzed price per unit vs units sold
-
-Assessed the impact of pricing strategies on sales and margins
-
-Dashboard & Visualization
-
-Developed an interactive Excel dashboard featuring:
-
-KPI Cards: Total Sales, Units Sold, Operating Profit, Average Operating Margin
-
-Bar Charts for retailer and regional comparisons
-
-Line Chart for monthly sales trends
-
-Heatmap for regional sales performance across months
-
-Slicers for Region, Retailer, and Month-based filtering
-
-Key Business Insights
-
-Revenue is concentrated among a limited number of retailers
-
-High sales volume does not consistently correlate with high profitability
-
-Certain regions generate strong revenue but operate at lower margins
-
-Seasonal trends reveal predictable peak sales periods
-
-Pricing strategy directly impacts both demand and operating margin
-
- Business Impact
-
-Enabled faster identification of high-margin and low-margin retailers
-
-Highlighted cost and pricing inefficiencies at regional levels
-
-Delivered a decision-ready dashboard for sales and operations teams
